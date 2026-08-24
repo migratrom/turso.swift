@@ -1,0 +1,5 @@
+Turso revision: c5816b5f5f5d2568e551a746f92f893003e55234
+Turso crates: 0.8.0-pre.7
+Rust toolchain: 1.88.0
+Apple deployment targets: macOS 13.0, iOS 16.0
+Architectures: macOS arm64/x86_64, iOS arm64, iOS Simulator arm64/x86_64

@@ -1,0 +1,5 @@
+module CTurso {
+    header "turso.h"
+    header "turso_sync.h"
+    export *
+}
